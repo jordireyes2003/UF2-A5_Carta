@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="Primero">
+        <nombre>Potaje</nombre>
+        <precio>10.50€</precio>
+        <descripcion>Potaje de alubias blancas con chorizo.</descripcion>
+        <calorias>349 calorias</calorias>
+        <imagen>img/potaje.jpg</imagen>
+        <ingredientes>
+            <categoria>legumbre 🥣</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Primero">
+        <nombre>Ensalada caprese de pasta</nombre>
+        <precio>9€</precio>
+        <descripcion>Potaje de alubias blancas con chorizo.</descripcion>
+        <calorias>349 calorias</calorias>
+        <imagen>img/ensalada.jpg</imagen>
+        <ingredientes>
+            <categoria>legumbre 🥣</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Primero">
+        <nombre>Croquetas caseras de Jamón Iberico</nombre>
+        <precio>12€</precio>
+        <descripcion>Croquetas caseras de Jamón Iberico.</descripcion>
+        <calorias>149 calorias</calorias>
+        <imagen>img/croquetas.jpg</imagen>
+        <ingredientes>
+            <categoria>Aperitivos 🧆</categoria>
+        </ingredientes>
+    </plato>
+
+     <plato tipo="Primero">
+        <nombre>Huevos estrellados estilos Mesón</nombre>
+        <precio>10€</precio>
+        <descripcion>Compuesto por una fina cama de patats fritas poco hechas sobre la que se colocan huevos fritos que se cortan sobre la patata</descripcion>
+        <calorias>90 calorias</calorias>
+        <imagen>img/huevos.jpg</imagen>
+        <ingredientes>
+            <categoria>Avicolas 🍳</categoria>
+        </ingredientes>
+    </plato>
+
+     <plato tipo="Primero">
+        <nombre>Caldo Gallego</nombre>
+        <precio>6€</precio>
+        <descripcion>Potaje resultado de cocer grelos o nabizas, alubias y patatas en una olla.  </descripcion>
+        <calorias>436 calorias</calorias>
+        <imagen>img/caldo gallego.jpg</imagen>
+        <ingredientes>
+            <categoria>Sopas 🥣</categoria>
+        </ingredientes>
+    </plato>
+
+
+
+
+
+
+
+     <plato tipo="Segundos">
+        <nombre>Chuletón de Ternera Gallega</nombre>
+        <precio>21€</precio>
+        <descripcion>Chuletón de ternera gallega con guarnicion.</descripcion>
+        <calorias>270 calorias por 100 gramos</calorias>
+         <imagen>img/chuleton ternera.jpg</imagen>
+        <ingredientes>
+            <categoria>Carne 🥩</categoria>
+        </ingredientes>
+    </plato>
+
+        <plato tipo="Segundos">
+        <nombre>Chuletón de Buey Gallego</nombre>
+        <precio>44€</precio>
+        <descripcion>Chuleton de ternera gallega con guarnicion.</descripcion>
+        <calorias>270 calorias por 100 gramos</calorias>
+        <imagen>img/buey.jpg</imagen>
+        <ingredientes>
+           <categoria>Carne 🥩</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Segundos">
+        <nombre>Costillas de Lechal</nombre>
+        <precio>15€</precio>
+        <descripcion>Costillas de lechal (Correspone a la panza del animal), viene con patatas y alioli.</descripcion>
+        <calorias>314 calorias</calorias>
+         <imagen>img/costillas.jpg</imagen>
+        <ingredientes>
+            <categoria>Carne 🥩</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Segundos">
+        <nombre>Bacalao a Mousse de All i Oli</nombre>
+        <precio>19€</precio>
+        <descripcion>Bacalao mezclado con una suave y cremosa mousse de all i olli con pimiento y tomate.</descripcion>
+        <calorias>250 calorias</calorias>
+         <imagen>img/bacalao.jpg</imagen>
+        <ingredientes>
+            <categoria>Pescado 🍣</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Segundos">
+        <nombre>Pulpo a la Gallega (A Feira)</nombre>
+        <precio>26€</precio>
+        <descripcion>Pulpo cocido cortado a rodajas servido espolvoreado con pimentón en su superficie y con patatas cocidas. </descripcion>
+        <calorias>138 calorias</calorias>
+         <imagen>img/pulpo.jpg</imagen>
+        <ingredientes>
+            <categoria>Pescado 🍣</categoria>
+        </ingredientes>
+    </plato>
+
+
+
+
+
+
+
+
+
+    <plato tipo="Marisco">
+        <nombre>Chipirones a la Andaluza</nombre>
+        <precio>14,75€</precio>
+        <descripcion>Calamares pequeñps rellenos de ajo picado, perejil, pan rallado y huevo, despues se frien y se sirven con limon.</descripcion>
+        <calorias>350 calorias</calorias>
+         <imagen>img/chipirones.jpg</imagen>
+        <ingredientes>
+            <categoria>Marisco 🍤</categoria>
+        </ingredientes>
+    </plato>
+
+
+     <plato tipo="Marisco">
+        <nombre>Berberechos</nombre>
+        <precio>13€</precio>
+        <descripcion>PLato de berberechos con ajo y perejil.</descripcion>
+        <calorias>79 calorias</calorias>
+         <imagen>img/berberechos.jpg</imagen>
+        <ingredientes>
+            <categoria>Molusco 🦪</categoria>
+        </ingredientes>
+    </plato>
+
+
+     <plato tipo="Marisco">
+        <nombre>Mejillones Gallegos al Vapor o a la Marinera</nombre>
+        <precio>10€</precio>
+        <descripcion>Cazuela de mejillones con salsa marinera.</descripcion>
+        <calorias>75 calorias</calorias>
+         <imagen>img/mejillones.jpg</imagen>
+        <ingredientes>
+            <categoria>Molusco 🦪</categoria>
+        </ingredientes>
+    </plato>
+
+
+     <plato tipo="Marisco">
+        <nombre>Cañaillas</nombre>
+        <precio>14€</precio>
+        <descripcion>Servidas en su concha con un aliño de aceita de oliva, ajo picado, perejil fresco y un toque de limon.</descripcion>
+        <calorias>65 calorias</calorias>
+         <imagen>img/cañaillas.jpg</imagen>
+        <ingredientes>
+            <categoria>Molusco 🦪</categoria>
+        </ingredientes>
+    </plato>
+
+
+     <plato tipo="Marisco">
+        <nombre>Navajas Gallegas</nombre>
+        <precio>17€</precio>
+        <descripcion>Servidas calientes y acompañadas de una rodaja de limón para añadir un toque cítrico.</descripcion>
+        <calorias>85 calorias</calorias>
+         <imagen>img/navaja.jpg</imagen>
+        <ingredientes>
+            <categoria>Molusco 🦪</categoria>
+        </ingredientes>
+    </plato>
+
+
+
+
+
+
+
+
+
+
+
+      <plato tipo="Postre">
+        <nombre>Flan de huevo</nombre>
+        <precio>3,70€</precio>
+        <descripcion>Servido con una capa de caramelo en la parte superior.</descripcion>
+        <calorias>200 calorias</calorias>
+         <imagen>img/flan huevo.jpg</imagen>
+        <ingredientes>
+            <categoria>Postres lacteos 🍮</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Postre">
+        <nombre>Tarta Santiago</nombre>
+        <precio>3,60€</precio>
+        <descripcion>Servida con azucar glas en su parte superior y acompañada de un poco de nata montada.</descripcion>
+        <calorias>350 calorias</calorias>
+         <imagen>img/tarta santiago.jpg</imagen>
+        <ingredientes>
+            <categoria>Postres 🍰</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Postre">
+        <nombre>Cuajada con miel y nueces</nombre>
+        <precio>3,30€</precio>
+        <descripcion>Servido en una copa con miel y nueces picadas.</descripcion>
+        <calorias>65 calorias</calorias>
+         <imagen>img/cuajada.jpg</imagen>
+        <ingredientes>
+            <categoria>Lacteos 🍯</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Postre">
+        <nombre>Tetilla (queso gallego)</nombre>
+        <precio>4,50€</precio>
+        <descripcion>Suave y cremoso.</descripcion>
+        <calorias>200 calorias</calorias>
+         <imagen>img/tetilla.jpg</imagen>
+        <ingredientes>
+            <categoria>Lacteos 🥛</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Postre">
+        <nombre>Tarta de queso</nombre>
+        <precio>3,50€</precio>
+        <descripcion>Porcion servida con salsa de futas.</descripcion>
+        <calorias>250 calorias</calorias>
+         <imagen>img/tarta queso.jpg</imagen>
+        <ingredientes>
+            <categoria>Lacteos 🥧</categoria>
+        </ingredientes>
+    </plato>
+    
+
+
+
+
+
+    <plato tipo="Refrescos">
+        <nombre>Nestea</nombre>
+        <precio>3,30€</precio>
+        <descripcion>Té con limon.</descripcion>
+        <calorias>20 calorias</calorias>
+        <imagen>img/nestea.jpg</imagen>
+        <ingredientes>
+            <categoria>Refresco 🥤</categoria>
+        </ingredientes>
+    </plato>
+
+      <plato tipo="Refrescos">
+        <nombre>Coca Cola</nombre>
+        <precio>6,05€</precio>
+        <descripcion>Refresco con gas.</descripcion>
+        <calorias>140 calorias</calorias>
+        <imagen>img/coca cola.jpg</imagen>
+        <ingredientes>
+            <categoria>Refresco 🥤</categoria>
+        </ingredientes>
+    </plato>
+
+      <plato tipo="Refrescos">
+        <nombre>Aquiarius naranja/limon</nombre>
+        <precio>3,30€</precio>
+        <descripcion>Refresco sabor naranja/limon.</descripcion>
+        <calorias>30 calorias</calorias>
+        <imagen>img/aquiarius.jpg</imagen>
+        <ingredientes>
+            <categoria>Refresco 🥤</categoria>
+        </ingredientes>
+    </plato>
+
+
+
+
+
+
+
+     <plato tipo="Vinos">
+        <nombre>Valduero Dos Maderas</nombre>
+        <precio>23€</precio>
+        <descripcion>Vino tinto.</descripcion>
+        <calorias>130 calorias</calorias>
+        <imagen>img/dos maderas.jpg</imagen>
+        <ingredientes>
+            <categoria>Vinos 🍷</categoria>
+        </ingredientes>
+    </plato>
+
+     <plato tipo="Vinos">
+        <nombre>Valduero - García Viadero</nombre>
+        <precio>20,50€</precio>
+        <descripcion>Vino tinto.</descripcion>
+        <calorias>140 calorias</calorias>
+        <imagen>img/garcia.jpg</imagen>
+        <ingredientes>
+            <categoria>Vinos 🍷</categoria>
+        </ingredientes>
+    </plato>
+
+     <plato tipo="Vinos">
+        <nombre>José Pariente</nombre>
+        <precio>20,50€</precio>
+        <descripcion>Vino blanco.</descripcion>
+        <calorias>125 calorias</calorias>
+        <imagen>img/jose.jpg</imagen>
+        <ingredientes>
+            <categoria>Vinos 🍷</categoria>
+        </ingredientes>
+    </plato>
+
+
+
+
+</menu>
